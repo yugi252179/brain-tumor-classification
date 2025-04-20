@@ -1,0 +1,18 @@
+pip install opencv-python-headless
+install pip and then install all other librery
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
+pip install flask mysql-connector
+pip install --upgrade Flask
+pip install Flask
+pip install tensorflow
+pip install keras
+pip install numpy
+pip install opencv-python  # For cv2
+pip install mysql-connector-python
+pip install Werkzeug
+pip uninstall flask
+pip freeze > requirements.txt
+pip install mysql-connector-python jinja2
+pip install flask tensorflow numpy opencv-python werkzeug
+pip install opencv-python-headless
+python -m pip install --upgrade pip
